@@ -25,3 +25,8 @@
 	left: 20px;
 }
 
+.actions > svg {
+	width: 2em;
+	height: 2em;
+}
+
